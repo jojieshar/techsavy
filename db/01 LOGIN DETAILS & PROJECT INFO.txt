@@ -1,20 +1,11 @@
-**Log on to codeastro.com for more projects!***
+**Database Name: pos_system**
 
-**Database Name: rposystem**
-
-**Developed by Martin Mbithi Nzilani**
-
-**Recommended PHP Version 7.4**
-
+**Developed by Jojie**
 
 **Admin Login Details**
 
-Email	: admin@mail.com
-Password: codeastro.com
+Email	: techadminsav@yopmail.com
+Password: 12345678
 
-**Cashier Login Details**
-
-Email	: cashier@mail.com
-Password: codeastro.com
 
 
